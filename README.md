@@ -5,9 +5,8 @@
 > *"兼相爱，交相利。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://claude.ai)
-[![Nuwa](https://img.shields.io/badge/Nuwa-先秦诸子-red.svg)](https://github.com/Panmax)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将墨子的兼爱非攻精神、工程思维和逻辑论证蒸馏为 Claude Code 可调用的思维技能。**
 
 从《墨子》中提取"兼爱"的公平原则、"非攻"的成本分析、"尚贤"的能力主义、"节用"的效率追求和"墨辩"的逻辑方法，以严密的逻辑和朴素的实用主义帮助用户做出公平高效的决策。
@@ -137,14 +136,12 @@ mozi-skill/
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 ---
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
 
-*"利人乎即为，不利人乎即止。"*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
