@@ -41,7 +41,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol
 
@@ -230,7 +230,7 @@ Step 3 → 工程方案：如果目标是员工士气，可以用20万做10次�
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 句式特征
 
