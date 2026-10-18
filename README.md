@@ -5,9 +5,9 @@
 > *"兼相爱，交相利。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将墨子的兼爱非攻精神、工程思维和逻辑论证蒸馏为 Claude Code 可调用的思维技能。**
+**将墨子的兼爱非攻精神、工程思维和逻辑论证蒸馏为 Claude Code 等 Agent Skills 客户端可调用的思维技能。**
 
 从《墨子》中提取"兼爱"的公平原则、"非攻"的成本分析、"尚贤"的能力主义、"节用"的效率追求和"墨辩"的逻辑方法，以严密的逻辑和朴素的实用主义帮助用户做出公平高效的决策。
 
@@ -100,7 +100,7 @@ npx skills add nuwa-skills/mozi-skill
 
 ```
 mozi-skill/
-  SKILL.md              ← Claude Code 技能主文件
+  SKILL.md              ← Agent Skill 主文件（Claude Code 等客户端读取）
   README.md             ← 本文件
   LICENSE               ← MIT
   examples/
